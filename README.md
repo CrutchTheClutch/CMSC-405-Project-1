@@ -3,7 +3,7 @@
 
 Creates an Animation JPanel that contains multiple images. Images are then transformed depending on the frame of the Animation panel.
 
-_Note: The "Project1Templates" folder contains the java files I was supplied to be used as a template. The result being the "" project._
+_Note: The "Project1Templates" folder contains the java files I was supplied to be used as a template. The result being the "Java2D_Project1" project._
 
 ---
 ###### This project was assigned while attending University of Maryland University College (UMUC)
